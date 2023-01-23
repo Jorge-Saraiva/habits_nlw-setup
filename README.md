@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online] (https://jorge-saraiva.github.io/habits_nlw-setup/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/J7lB40twqf5tO5dq4i4ll9/Habits-(e)-(Community)?node-id=6%3A910&t=LWMkEQSP6RURPzSy-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -42,3 +44,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 ## ™ Licença
 
 Esse projeto está sob a licença MIT (Rocketseat)
+
