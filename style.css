@@ -35,6 +35,8 @@ header {
 
   position: fixed;
   width: 100%;
+
+  background-color: rgba(9, 9, 10, 0.85);
 }
 
 button {
