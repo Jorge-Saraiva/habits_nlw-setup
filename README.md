@@ -6,10 +6,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para apredizagem de Fro
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
 </p>
 
 <p align="center">
@@ -37,9 +37,8 @@ O habits é um app para ajudar a rastrear os hábitos.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J7lB40twqf5tO5dq4i4ll9/Habits-(e)-(Community)?node-id=6%3A910&t=LWMkEQSP6RURPzSy-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/J7lB40twqf5tO5dq4i4ll9/Habits-(e)-(Community)?node-id=6%3A910&t=LWMkEQSP6RURPzSy-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## ™ Licença
 
 Esse projeto está sob a licença MIT (Rocketseat)
-
